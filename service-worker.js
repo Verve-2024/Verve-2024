@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Verve-2024/precache-manifest.901c8e0b6c854b590f9c040ae37609d8.js"
+  "/Verve-2024/precache-manifest.887bb80d0acafee8203d2fc6fcfa5d6e.js"
 );
 
 self.addEventListener('message', (event) => {
