@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Verve-2024/static/js/main.2fd553f9.chunk.js",
-    "main.js.map": "/Verve-2024/static/js/main.2fd553f9.chunk.js.map",
+    "main.js": "/Verve-2024/static/js/main.de9a590a.chunk.js",
+    "main.js.map": "/Verve-2024/static/js/main.de9a590a.chunk.js.map",
     "runtime-main.js": "/Verve-2024/static/js/runtime-main.3b0e18e1.js",
     "runtime-main.js.map": "/Verve-2024/static/js/runtime-main.3b0e18e1.js.map",
     "static/js/2.951c0ead.chunk.js": "/Verve-2024/static/js/2.951c0ead.chunk.js",
@@ -27,13 +27,13 @@
     "static/js/12.edf15f09.chunk.js": "/Verve-2024/static/js/12.edf15f09.chunk.js",
     "static/js/12.edf15f09.chunk.js.map": "/Verve-2024/static/js/12.edf15f09.chunk.js.map",
     "index.html": "/Verve-2024/index.html",
-    "precache-manifest.0887586755b493a38a8e301c3479f20e.js": "/Verve-2024/precache-manifest.0887586755b493a38a8e301c3479f20e.js",
+    "precache-manifest.901c8e0b6c854b590f9c040ae37609d8.js": "/Verve-2024/precache-manifest.901c8e0b6c854b590f9c040ae37609d8.js",
     "service-worker.js": "/Verve-2024/service-worker.js",
     "static/js/2.951c0ead.chunk.js.LICENSE.txt": "/Verve-2024/static/js/2.951c0ead.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3b0e18e1.js",
     "static/js/2.951c0ead.chunk.js",
-    "static/js/main.2fd553f9.chunk.js"
+    "static/js/main.de9a590a.chunk.js"
   ]
 }

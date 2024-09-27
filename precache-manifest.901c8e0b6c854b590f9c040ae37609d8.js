@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3acc45d05ffa0612f3074a25690f785a",
+    "revision": "a72a103195e24ce78472cdcaaa352c8e",
     "url": "/Verve-2024/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Verve-2024/static/js/9.e3d58c67.chunk.js"
   },
   {
-    "revision": "a88b991533843a5dac1d",
-    "url": "/Verve-2024/static/js/main.2fd553f9.chunk.js"
+    "revision": "16ffaa93e579c63a8ba6",
+    "url": "/Verve-2024/static/js/main.de9a590a.chunk.js"
   },
   {
     "revision": "d363b72e4665ed203a63",
